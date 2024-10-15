@@ -1,1 +1,1 @@
-../EncryptedSession/encrypted_session.py
+from EncryptedSession.encrypted_session import EncryptedSessionInterface
