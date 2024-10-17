@@ -1,4 +1,4 @@
-GnuCash Web - Ruban
+GnuCash Web
 ===========
 
 *GnuCash Web* is a simple, easy to use, mobile-friendly web interface for
